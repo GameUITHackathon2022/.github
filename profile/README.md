@@ -10,15 +10,13 @@ For anyone that has never used Git / Github, let's see [this short video](https:
 
 ### Guideline:
 
-| For existed project | For new project |
-| ----------- | ----------- |
-| Step 1. Initialze repository in your project. | Step 1. Create a new **public** repository in [here](https://github.com/orgs/GameUITHackathon2022/repositories), and named it in format [Team ID] - [Product name].|
-| Step 2. Rename in format [Team ID] - [Product name] and publish (public) it on Organization GameUITHackathon2022 | Step 2. Clone your repository and move the base code to cloned folder. |
-| Step 3. Code and commit regularly in 24 hours. | Step 3. Code and commit regularly in 24 hours.|
-| Step 4. At the end of the contest, let's write a guide that helps other people use your nice product. | Step 4. At the end of the contest, let's write a guide that helps other people use your nice product.|
+Step 1. After accepting the invitation from the admin, clone the existing repository in this organization with the name [Team ID] - [Team name].
 
-### Don't:
-- Contribute to other repositories.
+Step 2. Code and commit regularly in 24 hours.
+
+Step 3. At the end of the contest, let's write a guide that helps other people use your nice product. 
+
+### Note:
 - Make your repository private, mentors and other teams can not evaluate your product.
 
 ----
@@ -30,16 +28,16 @@ Nếu bạn chưa sử dụng Git / Github, hãy xem [hướng dẫn ngắn sau]
 
 ### Hướng dẫn nộp bài:
 
-| Đã có sẵn project | Tạo mới project |
-| ----------- | ----------- |
-| Bước 1. Khởi tạo repository trong project hiện tại | Bước 1. Leader tạo **public** repository tại [link](https://github.com/orgs/GameUITHackathon2022/repositories) và đặt tên theo định dạng [Team ID] - [Product name].|
-| Bước 2. Đặt tên theo format [Team ID] - [Product name] và tải lên Organization GameUITHackathon2022 | Step 2. Clone repository về và tiến hành code trong folder này. |
-| Bước 3. Code và commit thường xuyên trong vòng 24h. | Bước 3. Code và commit thường xuyên trong vòng 24h.|
-| Bước 4. Khi hoàn thành sản phẩm, hãy viết hướng dẫn cài đặt để cộng đồng có thử sử dụng sản phẩm của team bạn. | Bước 4. Khi hoàn thành sản phẩm, hãy viết hướng dẫn cài đặt để cộng đồng có thử sử dụng sản phẩm của team bạn.|
+Bước 1. Sau khi nhận lời mời từ Admin, clone repository có tên [Team ID] - [Team name] trong orgs này
 
-### Điều không nên làm:
-- Không can thiệp vào repository của các đội thi khác. 
+Bước 2. Code và commit thường xuyên trong vòng 24h.
+
+Bước 3. Khi hoàn thành sản phẩm, hãy viết hướng dẫn cài đặt để cộng đồng có thử sử dụng sản phẩm của team bạn.
+
+### Lưu ý:
 - Công khai repository của bạn để mentor và các team khác có thể đánh giá.
+
+----
 
 **Happy coding!**
 
