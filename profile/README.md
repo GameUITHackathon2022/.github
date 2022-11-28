@@ -15,6 +15,10 @@ Congratulations to our GUH2022's champions!
 | Kuhaku | Consolation Prize |
 | PTIT qua môn thầy Thư | Consolation Prize |
 
+[GALA Live](https://fb.watch/h47X1ayXZ5)
+
+[List of products](https://www.facebook.com/media/set/?set=a.1802405493469811&type=3)
+
 [Vietnamese below]
 
 ## Hi GUH2022er !
