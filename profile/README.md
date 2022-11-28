@@ -1,5 +1,20 @@
 ![final`](https://user-images.githubusercontent.com/43202025/202856201-5493cbfa-07a9-460e-9267-e8886f1a1b59.png)
 
+Congratulations to our GUH2022's champions!
+
+| Team | Prize |
+| --- | ----------- |
+| **#null** | **1st Prize** |
+| **Người đến sau** | **2nd Prize** |
+| **HCMUwUS** | **3rd Prize** |
+| Game Time! | Consolation Prize |
+| Fried Rice | Consolation Prize |
+| ChjllLaChink | Consolation Prize |
+| Chim Cánh Cụt | Consolation Prize |
+| CSET | Consolation Prize |
+| Kuhaku | Consolation Prize |
+| PTIT qua môn thầy Thư | Consolation Prize |
+
 [Vietnamese below]
 
 ## Hi GUH2022er !
@@ -17,7 +32,7 @@ Step 2. Code and commit regularly in 24 hours.
 Step 3. At the end of the contest, let's write a guide that helps other people use your nice product. 
 
 ### Note:
-- Make your repository private, mentors and other teams can not evaluate your product.
+- Make your repository public
 
 ----
 
@@ -35,7 +50,7 @@ Bước 2. Code và commit thường xuyên trong vòng 24h.
 Bước 3. Khi hoàn thành sản phẩm, hãy viết hướng dẫn cài đặt để cộng đồng có thử sử dụng sản phẩm của team bạn.
 
 ### Lưu ý:
-- Công khai repository của bạn để mentor và các team khác có thể đánh giá.
+- Công khai repository của bạn.
 
 ----
 
